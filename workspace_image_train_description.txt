@@ -1,0 +1,3 @@
+In this folder you should put photos and .xml files that got selected to training group.
+
+This group should be bigger. About 85% of your whole dataset (but you can try using different ratio ofc)

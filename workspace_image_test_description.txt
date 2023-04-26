@@ -1,0 +1,3 @@
+In this folder you should put photos and .xml files that got selected to testing group.
+
+This group should be smaller. Something between 10% or 20% of your whole dataset (but you can try using different ratio ofc)
